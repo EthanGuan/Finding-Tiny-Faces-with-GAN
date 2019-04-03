@@ -1,0 +1,8 @@
+*.ipynb_checkpoints
+*runs*
+*models*
+*saved_models*
+WIDER/*
+*.json
+*.pyc
+*.idea*
