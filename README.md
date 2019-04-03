@@ -2,10 +2,13 @@
 
 This is a reimplemetation of [1].
 
+![architecture](./asset/architecture.jpg)
+
 # Training
 
 ```python train.py```
-It use python3, pytorch, and tensorboadX by default.
+
+It uses python3, pytorch, and tensorboadX by default.
 
 see [experiment.ipynb](./experiment.ipynb) for discription and result visulization.
 
