@@ -1,6 +1,7 @@
 *.ipynb_checkpoints
 *runs*
-*models*
+models
+saved_models
 *saved_models*
 WIDER/*
 *.json
