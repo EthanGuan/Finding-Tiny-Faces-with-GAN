@@ -8,6 +8,13 @@ It uses python3, pytorch, and tensorboadX by default.
 
 see [experiment.ipynb](./experiment.ipynb) for discription and result visulization.
 
+# Pretrained weight
+I've uploaded Pretrained SRGAN weight file to:
+
+https://drive.google.com/open?id=1wfLQCXTR9YoxiWgkVoVw9NLHo4HO-jSL
+
+Download it and put it in a new directory:
+```mkdir -p Finding-Tiny-Faces-with-GAN/models```
 
 # Training
 
